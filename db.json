@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "João Silva",
+      "cpf": "12345678901",
+      "cep": "12345678",
+      "telefone": "999999999",
+      "email": "joao@example.com",
+      "senha": "123456"
+    },
+    {
+      "id": "1c8a",
+      "nome": "arthur henrique cardias araujo",
+      "cpf": "12345678913",
+      "cep": "66823010",
+      "telefone": "91999440798",
+      "email": "arthur.cardias@gmail.com",
+      "senha": "123456",
+      "confirmaSenha": "123456"
+    }
+  ]
+}
