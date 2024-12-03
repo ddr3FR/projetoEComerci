@@ -27,6 +27,9 @@ const NavBar = ()=>{
             <a href="/cadastro" className="text-light text-decoration-none">
               Cadastro
             </a>
+            <a href="/pedidos" className="text-light text-decoration-none ms-3">
+              Pedidos
+            </a>
           </div>
         </div>
       </nav>
