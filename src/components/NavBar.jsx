@@ -30,6 +30,9 @@ const NavBar = ()=>{
             <a href="/pedidos" className="text-light text-decoration-none ms-3">
               Pedidos
             </a>
+            <a href="/listapedidos" className="text-light text-decoration-none ms-3">
+              Listagem
+            </a>
           </div>
         </div>
       </nav>
