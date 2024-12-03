@@ -1,8 +1,11 @@
-# React + Vite
+## Dados da Equipe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Sâmia Cabral Rodrigues Canavieira (04153147)
+2. Matheus Cabral Rodrigues Menezes (04172023)
+3. Yasmim Pinto Moraes (04159356)
+4. Carlos Victor Lemos da Silva (04160624)
+5. Suzane Vitória Oliveira Rodrigues (04156606)
+6. Arthur Henrique Cardias Araujo (04161469)
+7. Glauce Abbud do Amaral (04158237)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**CURSO:** ADS Manhã Turma A
